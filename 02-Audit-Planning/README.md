@@ -53,16 +53,6 @@ Testing will include:
 
 ---
 
-## Out of Scope
-
-The following areas are excluded:
-
-- Application code review
-- Network penetration testing
-- Physical security assessment
-
----
-
 ## Audit Criteria
 
 Controls are evaluated based on:

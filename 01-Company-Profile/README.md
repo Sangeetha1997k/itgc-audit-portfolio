@@ -2,7 +2,7 @@
 
 This portfolio demonstrates my understanding of IT audit methodology, IT General Controls (ITGC), control testing, evidence evaluation, and audit documentation through simulated audit exercises.
 
-The purpose of this portfolio is to showcase practical knowledge of assessing whether IT controls are designed appropriately and operating effectively.
+The purpose of this portfolio is to showcase practical knowledge of assessing whether IT controls are appropriately designed and operating effectively.
 
 ---
 
@@ -26,8 +26,8 @@ The purpose of this portfolio is to showcase practical knowledge of assessing wh
 The fictional organization uses:
 
 - Okta for identity management
-- Google Workspace for productivity
-- ServiceNow for IT service management
+- Google Workspace for productivity and collaboration
+- ServiceNow for IT service management and change management
 - AWS for cloud infrastructure
 - CrowdStrike for endpoint security
 - Cisco Meraki for network management
@@ -36,23 +36,29 @@ The fictional organization uses:
 
 ## Audit Scope
 
-The portfolio covers the following ITGC domains:
+The simulated audit covers the following ITGC domains and supporting systems:
 
-### 1. User Access Management
+| ITGC Domain | Systems |
+|---|---|
+| User Access Management | Okta, Google Workspace |
+| Change Management | ServiceNow |
+| Computer Operations | AWS, ServiceNow |
+
+### User Access Management
 
 - User provisioning
 - User deprovisioning
 - Quarterly access reviews
 - Privileged access reviews
 
-### 2. Change Management
+### Change Management
 
 - Change requests
 - Approval validation
 - Testing evidence
 - Production deployment review
 
-### 3. Computer Operations
+### Computer Operations
 
 - Backup monitoring
 - Batch job monitoring
@@ -64,14 +70,17 @@ The portfolio covers the following ITGC domains:
 
 The testing approach includes:
 
+- Performing risk assessment
 - Understanding control objectives
-- Identifying risks
-- Reviewing control design
-- Selecting samples
-- Examining evidence
+- Evaluating control design (Test of Design)
+- Selecting risk-based samples
+- Testing operating effectiveness
+- Reviewing supporting evidence
 - Documenting exceptions
 - Providing audit conclusions
 
 ---
 
+## Disclaimer
 
+All company names, systems, data, evidence, and scenarios in this portfolio are fictional and created only for learning and demonstration purposes. They do not represent any real organization or audit engagement.

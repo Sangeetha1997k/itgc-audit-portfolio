@@ -1,6 +1,6 @@
 # IT General Controls (ITGC) Audit Portfolio
 
-## Overview
+## Overviewhttps://github.com/Sangeetha1997k/itgc-audit-portfolio/edit/main/01-Company-Profile/README.md
 
 This portfolio demonstrates my understanding of IT audit methodology, IT General Controls (ITGC), control testing, evidence evaluation, and audit documentation through simulated audit exercises.
 
@@ -81,4 +81,4 @@ The testing approach includes:
 
 ---
 
-## Portfolio Structure
+

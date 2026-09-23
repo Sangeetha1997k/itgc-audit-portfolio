@@ -32,10 +32,10 @@ The audit covers:
 
 | System | Purpose |
 |---|---|
-| Microsoft Entra ID | Identity and access management |
+| Okta | Identity and access management |
 | ServiceNow | IT service management |
 | AWS | Cloud infrastructure |
-| Microsoft 365 | Productivity platform |
+| Google Workspace | Productivity platform |
 
 ---
 

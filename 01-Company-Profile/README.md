@@ -58,11 +58,6 @@ The portfolio covers the following ITGC domains:
 - Batch job monitoring
 - Incident management
 
-### 4. Third-Party Risk Management
-
-- SOC 2 report review
-- Vendor security assessment
-
 ---
 
 ## Audit Methodology

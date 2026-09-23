@@ -25,8 +25,8 @@ The purpose of this portfolio is to showcase practical knowledge of assessing wh
 
 The fictional organization uses:
 
-- Microsoft Entra ID for identity management
-- Microsoft 365 for productivity
+- Okta for identity management
+- Google Workspace for productivity
 - ServiceNow for IT service management
 - AWS for cloud infrastructure
 - CrowdStrike for endpoint security

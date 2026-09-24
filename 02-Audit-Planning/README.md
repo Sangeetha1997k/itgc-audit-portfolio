@@ -41,6 +41,8 @@ Ensure users have appropriate access based on their job responsibilities and tha
 - Quarterly access reviews
 - Privileged access reviews
 
+Note: Google Workspace access is provisioned and deprovisioned through Okta SSO and is therefore covered by Okta-based access testing.
+
 ---
 
 ## 2. Change Management
@@ -85,9 +87,9 @@ Ensure IT operational processes support system availability, reliability, and re
 
 | System | Purpose |
 |---|---|
-| Okta | Identity management, SSO, MFA, user lifecycle management |
-| ServiceNow | IT service management, change management, and incident tracking |
-| AWS | Cloud infrastructure and operational services |
+| Okta | Identity Provider (IdP), SSO, MFA, user provisioning, deprovisioning, and access reviews |
+| ServiceNow | IT service management platform supporting change management, incident management, and workflow approvals |
+| AWS | Cloud infrastructure supporting application hosting, backups, and operational services |
 
 ---
 

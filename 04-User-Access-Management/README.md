@@ -8,8 +8,8 @@ The objective of this testing is to evaluate whether user access controls are ap
 
 ## Systems in Scope
 
-- Okta
-- Google Workspace
+- Okta (Primary Identity Provider managing authentication, SSO, MFA, user provisioning, and deprovisioning)
+- Google Workspace (Downstream application integrated with Okta SSO; access lifecycle is managed through Okta)
 
 ---
 

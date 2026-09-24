@@ -33,7 +33,6 @@ Ensure users have appropriate access based on their job responsibilities and tha
 ### Systems in Scope
 
 - Okta
-- Google Workspace
 
 ### Controls Covered
 
@@ -87,7 +86,6 @@ Ensure IT operational processes support system availability, reliability, and re
 | System | Purpose |
 |---|---|
 | Okta | Identity management, SSO, MFA, user lifecycle management |
-| Google Workspace | Email, collaboration, and productivity services |
 | ServiceNow | IT service management, change management, and incident tracking |
 | AWS | Cloud infrastructure and operational services |
 

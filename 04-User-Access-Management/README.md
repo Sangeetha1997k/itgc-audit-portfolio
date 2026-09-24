@@ -12,6 +12,10 @@ The objective of this testing is to evaluate whether user access controls are ap
 - Google Workspace (Downstream application integrated with Okta SSO; access lifecycle is managed through Okta)
 
 ---
+### Evidence Source Note
+
+Google Workspace access is provisioned and deprovisioned automatically through Okta SSO integration. Therefore, user lifecycle testing for Google Workspace is performed using Okta provisioning, deprovisioning, and access review evidence.
+---
 
 ## Controls Tested
 

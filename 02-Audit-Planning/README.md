@@ -28,7 +28,7 @@ The following ITGC domains are included:
 
 ### Objective
 
-Ensure users have appropriate access based on their job responsibilities and that unauthorized access is identified and removed timely.
+Ensure user access is appropriately requested, approved, provisioned, reviewed, and removed in a timely manner based on business requirements.
 
 ### Systems in Scope
 
@@ -100,7 +100,7 @@ The audit will follow a risk-based approach:
 1. Understand business processes and control objectives
 2. Identify risks associated with each process
 3. Evaluate whether controls are appropriately designed
-4. Select samples for testing
+4. Select risk-based samples for testing
 5. Review supporting evidence
 6. Test operating effectiveness of controls
 7. Document exceptions identified

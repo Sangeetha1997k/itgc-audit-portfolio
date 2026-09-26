@@ -1,54 +1,79 @@
-# User Access Management (UAM) Testing
+# User Access Management
 
-## Objective
+## Purpose
 
-The objective of this testing is to evaluate whether user access controls are appropriately designed and operating effectively to prevent unauthorized access to company systems.
+This section demonstrates the testing of IT General Controls (ITGC) related to User Access Management.
+
+The objective is to evaluate whether user access controls are appropriately designed and operating effectively to prevent unauthorized access to company systems.
+
+---
+
+## Controls in Scope
+
+| Control ID | Control |
+|------------|---------|
+| UAM-01 | User access is reviewed quarterly by appropriate reviewers to validate access remains appropriate. |
+| UAM-02 | User access requests require documented manager approval before access is granted. |
+| UAM-03 | User accounts are disabled within the defined SLA following employee termination. |
+| UAM-04 | Privileged user access is reviewed quarterly to validate access remains appropriate. |
+
+---
+
+## Risk
+
+Unauthorized users may retain access that is no longer appropriate for their role. Users may be granted access that was never approved or exceeds job requirements. Terminated employees may retain system access after leaving the organization. Excessive or unreviewed privileged access may result in unauthorized administrative activity.
+
+---
+
+## Control Objective
+
+Ensure that:
+
+- User access is periodically reviewed and remains appropriate for the user's role
+- Access is approved by an appropriate manager before being provisioned
+- Access is removed promptly after employee termination
+- Privileged access is restricted and reviewed on a quarterly basis
 
 ---
 
 ## Systems in Scope
 
-- Okta (Primary Identity Provider managing authentication, SSO, MFA, user provisioning, and deprovisioning)
-- Google Workspace (Downstream application integrated with Okta SSO; access lifecycle is managed through Okta)
+- Okta (Identity Provider managing authentication, SSO, MFA, user provisioning, deprovisioning, and access reviews)
 
 ---
 
-### Evidence Source Note
+## Evidence
 
-Google Workspace access is provisioned and deprovisioned automatically through Okta SSO integration. Therefore, user lifecycle testing for Google Workspace is performed using Okta provisioning, deprovisioning, and access review evidence.
-
----
-
-## Controls Tested
-
-| Control ID | Control Description |
-|---|---|
-| UAM-01 | Quarterly access reviews |
-| UAM-02 | User provisioning |
-| UAM-03 | User deprovisioning |
-| UAM-04 | Privileged access reviews |
-
----
-
-## Testing Approach
-
-Testing will evaluate:
-
-- Control design effectiveness
-- Operating effectiveness
-- Evidence availability
-- Exception identification
-- Overall control conclusion
+| Evidence ID | Description |
+|-------------|-------------|
+| E-001 | Okta User Access Export |
+| E-002 | Quarterly Access Review Report |
+| E-003 | Access Review Sign-off Record |
+| E-004 | Access Request Ticket |
+| E-005 | Manager Approval Record |
+| E-006 | User Provisioning Log |
+| E-007 | Employee Termination Report |
+| E-008 | Okta Deactivation Log |
+| E-009 | Privileged User Access List |
+| E-010 | Privileged Access Review Report |
 
 ---
 
-## Testing Activities
+## Audit Testing Approach
 
-The audit testing will include:
+Testing will verify that:
 
-- Obtaining control population
-- Performing completeness checks
-- Selecting risk-based samples
-- Reviewing supporting evidence
-- Evaluating whether controls operated as designed
-- Documenting exceptions and conclusions# Coming Soon
+- User access reviews were completed quarterly, and access certifications were appropriately evidenced.
+- Access requests were approved by an appropriate manager before provisioning.
+- Provisioned access matched the approved request.
+- Terminated user accounts were disabled within the defined SLA.
+- Privileged access was reviewed quarterly and remained supported by business justification.
+- Supporting evidence was reviewed to confirm review, approval, provisioning, and deprovisioning activities were documented.
+
+---
+
+## Expected Deliverables
+
+- User Access Management Test Workpaper
+- Supporting Evidence
+- Audit Conclusions

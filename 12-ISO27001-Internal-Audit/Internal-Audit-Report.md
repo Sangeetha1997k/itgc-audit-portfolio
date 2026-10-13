@@ -15,9 +15,9 @@
 ## 1. Executive Summary
 
 An internal audit of the BlueSky Technologies ISMS was performed against ISO/IEC
-27001:2022 and the organization's own ISMS documentation. The audit covered Clauses 4,
-6 and 8 and selected access control requirements in Annex A. Twenty-six checks were
-performed.
+27001:2022 and the organization's own ISMS documentation.The audit covered selected 
+requirements of Clauses 4, 6 and 8, and selected access control requirements in Annex A. 
+Twenty-six checks were performed.
 
 Twenty checks conformed (three of them in reliance on Q1 2026 interim ITGC testing),
 four resulted in observations, and two resulted in minor nonconformities. No major
@@ -64,9 +64,10 @@ effectively implemented and maintained.
 | Operation | 8.2, 8.3 |
 | Access control | Annex A 5.3, 5.15, 5.16, 5.18, 5.35, 8.2 |
 
-Not audited in this cycle: Clauses 5, 7 and 10 and the remaining Annex A controls
-(planned for later cycles); Clause 9.3, because the management review follows this
-audit; and the physical controls excluded in the Statement of Applicability.
+Not audited in this cycle: requirements of Clauses 6.1.1, 6.2, 6.3 and 8.1; Clauses 5,
+7 and 10; Clause 9.3, because the management review follows this audit; the remaining
+Annex A controls (planned for later cycles); and the physical controls excluded in the
+Statement of Applicability.
 
 ---
 

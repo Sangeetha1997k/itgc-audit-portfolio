@@ -37,7 +37,7 @@ that date and are follow-up evidence. They do not change the audit conclusion as
 |---|---|---|
 | 2 | Status of previous actions (a) | First review. No previous actions. |
 | 3 | Changes in issues, interested parties and feedback (b, c, e) | No changes to external or internal issues, no changes to interested party requirements, and no interested party feedback were recorded. |
-| 4 | ITGC interim results (d2, d3) | Eight ITGC controls were tested using Q1 2026 interim evidence. No operating exceptions were identified in the samples examined. One design observation was raised concerning segregation of duties in privileged access review (UAM-04). The results are interim and do not establish full-year operating effectiveness. |
+| 4 | ITGC interim results (d2, d3) | Eight ITGC controls were tested using Q1 2026 interim evidence. No operating exceptions were identified in the Q1 2026 populations tested. One design observation was raised concerning segregation of duties in privileged access review (UAM-04). The results are interim and do not establish full-year operating effectiveness. |
 | 4 | Information security objectives (d4) | No documented information security objectives (Clause 6.2) were available for review, so fulfilment could not be evaluated. Top Management decided that objectives are to be established (see section 5). |
 | 5 | Internal audit results (d1, d3) | 26 checks: 20 conform, 4 observations, 2 minor nonconformities (ISO-001, ISO-002). No major nonconformities. |
 | 6 | Risk assessment results (f) | 12 risks. Inherent: 5 High, 7 Medium. Residual: 1 High (R-010), 7 Medium, 4 Low. |

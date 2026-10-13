@@ -44,9 +44,10 @@ To determine whether the BlueSky Technologies ISMS:
 | Operation | 8.2, 8.3 | Risk assessment performed at planned intervals; treatment plan implemented |
 | Access control | Annex A 5.3, 5.15, 5.16, 5.18, 5.35, 8.2 | Reliance on ITGC testing (UAM-01 to UAM-04); follow-up of the UAM-04 observation |
 
-This audit cycle focuses on Clauses 4, 6 and 8 and the selected Annex A controls
-listed above. Clauses 5, 7 and 10, and the remaining Annex A controls, will be
-covered in later audit cycles.
+This audit cycle focuses on selected requirements of Clauses 4, 6 and 8 and the
+selected Annex A controls listed above. Requirements of Clauses 6.1.1, 6.2, 6.3 and
+8.1, Clauses 5, 7 and 10, and the remaining Annex A controls will be covered in later
+audit cycles.
 
 **Not audited in this cycle:**
 
@@ -64,8 +65,9 @@ results of previous audits:
 - Risk assessment and treatment (Clause 6) are central to the ISMS.
 - The ITGC interim audit (`07-Audit-Report/`) raised one design observation
   (segregation of duties in privileged access review, UAM-04), which is followed up here.
-- Clauses 5, 7 and 10 are not audited this cycle. They should be covered in a later
-  cycle, so that all ISMS requirements are audited within the programme.
+- Requirements of Clauses 6.1.1, 6.2, 6.3 and 8.1, and Clauses 5, 7 and 10, are not
+  audited this cycle. They should be covered in a later cycle, so that all ISMS
+  requirements are audited within the programme.
 
 ---
 

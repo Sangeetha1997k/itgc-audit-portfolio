@@ -6,7 +6,7 @@ This folder contains the first management review of the BlueSky Technologies ISM
 held in line with ISO/IEC 27001:2022 Clause 9.3.
 
 The review considers the Clause 9.3.2 inputs documented in
-`Management-Review-Agenda.md` and records the Clause 9.3.3 results, including
+[`Management-Review-Agenda.md`](Management-Review-Agenda.md) and records the Clause 9.3.3 results, including
 risk-owner decisions, improvement decisions, ISMS changes and resulting actions.
 
 ---
@@ -15,9 +15,9 @@ risk-owner decisions, improvement decisions, ISMS changes and resulting actions.
 
 | File | Description |
 |---|---|
-| `Management-Review-Agenda.md` | Meeting details, attendees by role, the Clause 9.3.2 inputs with their sources, and the agenda |
-| `Management-Review-Minutes.md` | Discussion of the inputs, decisions on all 12 risks, approval of the four Planned controls, and the Clause 9.3.3 results |
-| `Improvement-Action-Tracker.xlsx` | 14 actions (ACT-01 to ACT-14) with owner, status, due date, dependency and closure evidence |
+| [`Management-Review-Agenda.md`](Management-Review-Agenda.md) | Meeting details, attendees by role, the Clause 9.3.2 inputs with their sources, and the agenda |
+| [`Management-Review-Minutes.md`](Management-Review-Minutes.md) | Discussion of the inputs, decisions on all 12 risks, approval of the four Planned controls, and the Clause 9.3.3 results |
+| [`Improvement-Action-Tracker.xlsx`](Improvement-Action-Tracker.xlsx) | 14 actions (ACT-01 to ACT-14) with owner, status, due date, dependency and closure evidence |
 
 ---
 

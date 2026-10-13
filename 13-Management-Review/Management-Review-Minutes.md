@@ -116,11 +116,11 @@ Based on the internal audit observations and the review inputs:
 | Implement cloud configuration monitoring (control 8.9) | R-010 | ACT-07 |
 | Define and implement secure SDLC and secure coding controls (controls 8.25, 8.28) | R-011 | ACT-08 |
 | Establish documented information security objectives consistent with the information security policy and the risk treatment results, with owners, measures and targets | Clause 6.2; not audited, so no finding raised | ACT-09 |
-| Review and report performance against the information security objectives at the next management review | Clause 9.3.2(d)(4) | ACT-14 |
 | Extend access review testing to Q2 to Q4 2026 | R-001 | ACT-10 |
 | Add periodic restore testing for backups | R-006 | ACT-11 |
 | Add MFA enforcement testing to the next audit cycle | R-009 | ACT-12 |
 | Review the connected-application inventory annually | R-012 | ACT-13 |
+| Review and report performance against the information security objectives at the next management review | Clause 9.3.2(d)(4) | ACT-14 |
 
 **Next review:** management reviews will be held at planned intervals, at least
 annually. The next review is due by June 2027, or earlier if significant changes occur.

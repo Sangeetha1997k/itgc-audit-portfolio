@@ -44,7 +44,7 @@ at this meeting are follow-up evidence that does not change the audit conclusion
 | d(1) | Trends in nonconformities and corrective actions | `12-ISO27001-Internal-Audit/Internal-Audit-Report.md` (ISO-001 to ISO-005) |
 | d(2) | Monitoring and measurement results | `07-Audit-Report/` (ITGC interim testing, Q1 2026) |
 | d(3) | Audit results | `12-ISO27001-Internal-Audit/` and `07-Audit-Report/` |
-| d(4) | Fulfilment of information security objectives | Not assessed. Information security objectives (Clause 6.2) were outside the audit scope. |
+| d(4) | Fulfilment of information security objectives | No documented information security objectives (Clause 6.2) are held in the ISMS records. Status and management's decision are recorded in the minutes. |
 | e | Feedback from interested parties | None recorded |
 | f | Results of risk assessment and status of risk treatment plan | `09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`; `11-ISO27001-Statement-of-Applicability/SoA.xlsx` |
 | g | Opportunities for continual improvement | Observations ISO-003 to ISO-005; recommendations in the audit reports |
@@ -58,7 +58,7 @@ at this meeting are follow-up evidence that does not change the audit conclusion
 | 1 | Opening, attendance, purpose and evidence cut-off | Chair | None |
 | 2 | Status of previous actions | Chair | a |
 | 3 | Changes in context and interested party requirements | IT Manager | b, c, e |
-| 4 | Information security performance: ITGC interim results (Q1 2026) | IT Manager | d(2), d(3) |
+| 4 | Information security performance: ITGC interim results (Q1 2026) and status of information security objectives | IT Manager | d(2), d(3), d(4) |
 | 5 | Internal audit results: 26 checks, 5 findings (ISO-001 to ISO-005) | Internal Auditor | d(1), d(3) |
 | 6 | Risk assessment results: 12 risks, inherent and residual ratings | IT Manager | f |
 | 7 | **Risk owner decisions on treatment and residual risk for all 12 risks** | Each risk owner | f |

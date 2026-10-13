@@ -79,8 +79,8 @@ Interviews were not part of this engagement.
 - **Evidence cut-off:** findings reflect the evidence available at the report date of
   22 May 2026. Management review decisions recorded in June 2026 are follow-up
   evidence and do not change the audit conclusion as of that date.
-- **Scope:** Clauses 5, 7 and 10, Clause 9.3, and the remaining Annex A controls were
-  not audited in this cycle.
+- **Scope:** requirements of Clauses 6.1.1, 6.2, 6.3 and 8.1, Clauses 5, 7 and 10,
+  Clause 9.3, and the remaining Annex A controls were not audited in this cycle.
 - **Documents and recalculation:** no process was observed in operation.
 
 ---

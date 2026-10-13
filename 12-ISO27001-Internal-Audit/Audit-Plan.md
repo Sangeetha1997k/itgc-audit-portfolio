@@ -27,7 +27,8 @@ To determine whether the BlueSky Technologies ISMS:
 
 ## Audit Criteria
 
-- ISO/IEC 27001:2022, Clauses 4 to 10 and Annex A (Table A.1)
+- ISO/IEC 27001:2022 requirements relevant to the defined audit scope: Clauses 4.1 to
+  4.3, 6.1.2, 6.1.3, 8.2 and 8.3, and selected Annex A controls from Table A.1
 - Risk Assessment Methodology (`09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md`)
 - ISMS Scope Statement (`08-ISO27001-Context/ISMS-Scope.md`)
 

@@ -1,0 +1,13 @@
+Change ID,Approver Name,Approver Role,Approval Date,Approval Status,Comments
+CHG-2001,Nathan Scott,Engineering Manager,02-Jan-2026,Approved,"Standard change, low risk"
+CHG-2002,Nathan Scott,Engineering Manager,08-Jan-2026,Approved,"Performance improvement, no schema risk"
+CHG-2003,Nathan Scott,Engineering Manager,16-Jan-2026,Approved,UI-only change
+CHG-2004,James Brown,IT Manager,26-Jan-2026,Approved,Scaling change reviewed for cost and capacity impact
+CHG-2005,James Brown,IT Manager,02-Feb-2026,Approved,"Security-sensitive change, reviewed with IAM"
+CHG-2006,Nathan Scott,Engineering Manager,09-Feb-2026,Approved,Configuration update reviewed for security and operational impact
+CHG-2007,Nathan Scott,Engineering Manager,16-Feb-2026,Approved,Schema change reviewed for backward compatibility
+CHG-2008,James Brown,IT Manager,23-Feb-2026,Approved,Infrastructure scaling policy reviewed
+CHG-2009,Nathan Scott,Engineering Manager,02-Mar-2026,Approved,"Bug fix, low risk"
+CHG-2010,James Brown,IT Manager,09-Mar-2026,Approved,Network change reviewed for security impact
+CHG-2011,Nathan Scott,Engineering Manager,16-Mar-2026,Approved,New service reviewed for architecture alignment
+CHG-2012,James Brown,IT Manager,23-Mar-2026,Approved,"Critical patch, expedited review within normal process"

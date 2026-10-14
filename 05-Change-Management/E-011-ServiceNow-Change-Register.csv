@@ -1,0 +1,14 @@
+Change ID,Change Date,System,Change Description,Change Type,Requested By,Status
+CHG-2001,05-Jan-2026,AWS - API Service,Update API configuration,Standard,Daniel Kim,Closed
+CHG-2002,12-Jan-2026,AWS - Database,Apply database index optimization,Standard,Neha Gupta,Closed
+CHG-2003,20-Jan-2026,AWS - Web Application,Deploy approved UI enhancements,Standard,Daniel Kim,Closed
+CHG-2004,28-Jan-2026,AWS - Infrastructure,Upgrade EC2 instance types for scaling,Normal,Rohit Verma,Closed
+CHG-2005,04-Feb-2026,AWS - Security,Rotate encryption keys for customer data storage,Normal,David Lee,Closed
+CHG-2006,11-Feb-2026,AWS - API Service,Update webhook configuration,Standard,Daniel Kim,Closed
+CHG-2007,18-Feb-2026,AWS - Database,Schema change for new reporting feature,Standard,Neha Gupta,Closed
+CHG-2008,25-Feb-2026,AWS - Infrastructure,Configure auto-scaling policy,Normal,Rohit Verma,Closed
+CHG-2009,04-Mar-2026,AWS - Web Application,Fix UI bug in billing dashboard,Standard,Daniel Kim,Closed
+CHG-2010,11-Mar-2026,AWS - Network Security Groups,Update security group rules for new service,Normal,David Lee,Closed
+CHG-2011,18-Mar-2026,AWS - API Service,Deploy new authentication microservice,Normal,Arjun Nair,Closed
+CHG-2012,25-Mar-2026,AWS - Database,Apply critical security patch to database engine,Normal,Neha Gupta,Closed
+"Note: Reflects all production changes completed during the audit period (12 total), tested as full population. 'Standard' changes are lower-risk, pre-approved recurring change types; 'Normal' changes require full CAB-style review. No Emergency changes occurred in this period.",,,,,,

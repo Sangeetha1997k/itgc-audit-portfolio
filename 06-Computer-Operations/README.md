@@ -67,6 +67,23 @@ Testing will verify that:
 
 ---
 
+## Test Results (March 2026)
+
+| Test ID | Control | Population | Evidence | Exceptions | Result |
+|---|---|---|---|---|---|
+| OPS-T001 | OPS-01 Backup monitoring | 30 backup jobs; 2 failures investigated and resolved | E-015, E-018 | None | Pass |
+| OPS-T002 | OPS-02 Batch job monitoring | 30 batch jobs; 2 failures investigated and remediated | E-016, E-019 | None | Pass |
+| OPS-T003 | OPS-03 Incident management | 6 incidents, all resolved and closure verified | E-017, E-020 | None | Pass |
+
+## Files in this Folder
+
+| File | View in browser |
+|---|---|
+| [`OPS-Test-Workpaper.xlsx`](OPS-Test-Workpaper.xlsx) | [PDF copy](OPS-Test-Workpaper.pdf) |
+| Evidence E-015 to E-020 (`.xlsx` originals) | CSV copy of each, for example [`E-015`](E-015-Backup-Job-Monitoring-Report.csv) |
+
+---
+
 ## Expected Deliverables
 
 - Computer Operations Test Workpaper

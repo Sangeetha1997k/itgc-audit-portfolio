@@ -1,108 +1,131 @@
-# Statement of Applicability (SoA)
+# ISO/IEC 27001:2022 Annex A Control Mapping
 
 ## Purpose
 
-This folder contains the Statement of Applicability for the BlueSky Technologies
-ISMS, prepared in line with ISO/IEC 27001:2022 Clause 6.1.3(d).
+This folder documents the mapping between identified information security risks,
+ISO/IEC 27001:2022 Annex A controls, and existing ITGC controls within the
+BlueSky Technologies ISMS scope.
 
-For each of the 93 Annex A controls, the SoA records whether the control is
-applicable, who owns it, why it is included or excluded, its implementation status,
-the risks it is linked to, and the supporting ITGC evidence where it exists.
+The mapping shows how identified risks are addressed through security controls and
+how existing audit evidence provides assurance over selected control areas.
 
 ---
 
-## Contents
+## Mapping Approach
 
-| File | Description |
+Risks in the ISO 27001 Risk Register are mapped to relevant Annex A controls based on:
+
+- The nature of the information security risk
+- The objective of the Annex A control
+- Existing security processes and operational controls
+- Available ITGC control testing evidence
+
+The mapping is not a certification assessment. It shows the relationship between
+risks, controls, and available evidence within the portfolio environment.
+
+Annex A control numbers and names follow Table A.1 of ISO/IEC 27001:2022.
+
+---
+
+## Mapping Relationship
+
+```
+Information Security Risk
+        |
+        v
+ISO 27001:2022 Annex A Control
+        |
+        v
+Existing ITGC Control
+        |
+        v
+Audit Evidence / Testing Result
+        |
+        v
+Coverage Assessment
+```
+
+Example (R-004):
+
+```
+Risk:     Privileged access review lacks independence
+
+Annex A:  5.3 Segregation of duties
+          5.35 Independent review of information security
+          8.2 Privileged access rights
+          5.18 Access rights
+
+ITGC:     UAM-04 Privileged access review
+
+Evidence: Q1 2026 interim testing; audit observation in 07-Audit-Report
+
+Coverage: Tested (Q1 interim); design gap noted
+```
+
+---
+
+## Coverage Interpretation
+
+The Coverage column in [`Annex-A-2022-Control-Mapping.xlsx`](Annex-A-2022-Control-Mapping.xlsx) describes the level of
+assurance available for the mapped control. The coverage value refers to the mapped
+ITGC control. Where that control does not support every Annex A control on a row,
+the exceptions are named in the Coverage column.
+
+| Coverage | Meaning |
 |---|---|
-| [`SoA.xlsx`](SoA.xlsx) | Statement of Applicability covering all 93 Annex A controls |
+| Tested (Q1 interim) | The related ITGC control was tested during Q1 2026 interim procedures. This does not represent full-year operating effectiveness. |
+| Partial | Existing controls cover part of the risk, but other areas are outside the testing scope. Example: Okta lifecycle is tested, but security within connected third-party applications is not. |
+| Not tested | No ITGC testing evidence exists for the mapped control. The control may exist, but its implementation and operating effectiveness have not been assessed. |
 
----
+Qualifiers added after the coverage value:
 
-## SoA Structure
-
-| Column | Description |
+| Qualifier | Meaning |
 |---|---|
-| Control ID / Control Name | As listed in Table A.1 of ISO/IEC 27001:2022 |
-| Theme | Organizational, People, Physical or Technological |
-| Applicable | Yes or No |
-| Control Owner | Current role or planned function accountable for the control; planned ownership is identified where the function has not yet been established. |
-| Justification | Reason the control is included or excluded |
-| Implementation Status | See status definitions below |
-| Linked Risk(s) | Risks the control is mapped to in [`10-ISO27001-Control-Mapping/`](../10-ISO27001-Control-Mapping/) |
-| ITGC Evidence | Reference to an ITGC workpaper or other supporting evidence where available. A reference does not by itself indicate that the control was tested or found effective; assessment scope and limitations are recorded in the other fields. |
+| not directly tested: [controls] | The named Annex A controls are mapped to the risk, but the ITGC testing did not examine them. |
+| design gap noted | The control operated as tested, but its design has a weakness (see [`07-Audit-Report/`](../07-Audit-Report/)). |
+| restore testing not covered | The control was tested, but a related activity is outside the ITGC scope. |
+| third-party trust relationships not tested | Security within connected third-party applications was outside the testing scope. |
+| control gap | No control within the current scope addresses the risk. |
 
 ---
 
-## Implementation Status Definitions
+## Limitations
 
-| Status | Meaning |
+Mapping a risk to an Annex A control does not confirm that:
+
+- The control is fully implemented
+- The control is operating effectively
+- The organization is compliant with ISO/IEC 27001
+
+A subset of the 93 Annex A controls is mapped to the risks identified in this
+portfolio. Controls not mapped to a specific risk are evaluated in the Statement of
+Applicability (SoA).
+
+---
+
+## ITGC Evidence References
+
+| ITGC Area | Related Folder |
 |---|---|
-| Implemented | The control is recorded as implemented, and available evidence supports its existence or operation within the scope tested. Evidence in this portfolio reflects Q1 2026 interim testing where applicable and does not establish full-year operating effectiveness. |
-| Partially Implemented | Control exists but has design, implementation, or coverage limitations. |
-| Planned | Control has been approved for implementation but is not yet implemented. |
-| Not Assessed | The control is applicable, but its implementation or operating effectiveness was not assessed within this portfolio. The status does not indicate that the control is absent or ineffective. |
-| Not Applicable | Control is excluded from the ISMS scope, with a documented justification. |
+| User Access Management | [`04-User-Access-Management/`](../04-User-Access-Management/) |
+| Change Management | [`05-Change-Management/`](../05-Change-Management/) |
+| Computer Operations | [`06-Computer-Operations/`](../06-Computer-Operations/) |
+| Audit Observations | [`07-Audit-Report/`](../07-Audit-Report/) |
 
 ---
 
-## Applicability Approach
+## Key Mapping Considerations
 
-All 93 Annex A controls were evaluated individually against the ISMS scope
-([`08-ISO27001-Context/ISMS-Scope.md`](../08-ISO27001-Context/ISMS-Scope.md)), the risks in
-[`09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`](../09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx), and BlueSky Technologies'
-activities and responsibilities. A control may be excluded where it falls outside the
-defined ISMS scope, is the responsibility of an external provider outside BlueSky's
-assessed responsibilities, or does not apply to the activities currently described.
-Each exclusion is supported by a documented justification.
-
-- **Data center physical controls (7.1 to 7.6, 7.8, 7.11 to 7.13):** these controls
-  are excluded from the current ISMS scope because production infrastructure is
-  hosted in AWS facilities and physical data center security is managed by AWS.
-  Corporate offices are also outside the defined ISMS scope. AWS assurance evidence
-  was not reviewed as part of this portfolio, because vendor risk management is
-  outside the audit scope. These exclusions should be reconsidered if the ISMS scope
-  or the shared responsibility assessment changes.
-- **Device-related physical controls (7.7, 7.9, 7.10, 7.14):** applicable, because
-  staff devices are used to access production systems.
-- **8.23 Web filtering:** applies to corporate internet access, which is outside the
-  ISMS scope.
-- **8.30 Outsourced development:** no outsourced development is described in the
-  portfolio. To be reconsidered if development is outsourced.
-
-If the ISMS scope changes, excluded controls must be re-evaluated.
-
----
-
-## Evidence and Limitations
-
-- **Interim testing:** ITGC evidence references reflect Q1 2026 interim testing only.
-  They do not represent full-year operating effectiveness.
-- **Linked Risk(s):** this column shows the risk-to-control mapping. It does not mean
-  the control has been tested for every linked risk. Testing limits are stated in the
-  Justification and ITGC Evidence columns.
-- **Not Assessed:** the control is applicable, but its implementation or operating
-  effectiveness was not assessed within this portfolio. Supporting information may
-  exist, but it does not establish an assessment conclusion. The status does not mean
-  that the control is absent or ineffective.
-- **Control owners:** reflect the current operating model, except where a planned
-  function is identified. Independent review (5.35) is assigned to a function that
-  does not yet exist, as the planned treatment for R-004.
-
----
-
-## Planned Controls
-
-Controls marked Planned are the approved treatments for risks identified in the Risk
-Register. The approvals are recorded in [`13-Management-Review/`](../13-Management-Review/).
+- **Multiple controls per risk:** one risk often needs several controls. Unauthorized
+  access, for example, involves 5.15, 5.16, 5.18 and 8.5.
+- **Multiple risks per control:** one control can treat several risks. Control 5.15
+  Access control supports R-001, R-002 and R-009.
 
 ---
 
 ## Related Documents
 
-- [`08-ISO27001-Context/ISMS-Scope.md`](../08-ISO27001-Context/ISMS-Scope.md)
 - [`09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`](../09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx)
 - [`09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md`](../09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md)
-- [`10-ISO27001-Control-Mapping/Annex-A-2022-Control-Mapping.xlsx`](../10-ISO27001-Control-Mapping/Annex-A-2022-Control-Mapping.xlsx)
-- [`07-Audit-Report/`](../07-Audit-Report/)
+- [`11-ISO27001-Statement-of-Applicability/`](../11-ISO27001-Statement-of-Applicability/)
 - [`13-Management-Review/`](../13-Management-Review/)

@@ -1,0 +1,32 @@
+Batch Date,Batch Job Name,Status,Failure Reason,Incident ID
+01-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+02-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+03-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+04-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+05-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+06-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+07-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+08-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+09-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+10-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+11-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+12-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+13-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+14-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+15-Mar-2026,Nightly Data Processing Batch,Failed,"Upstream data feed delayed, job timed out",INC-3003
+16-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+17-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+18-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+19-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+20-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+21-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+22-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+23-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+24-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+25-Mar-2026,Nightly Data Processing Batch,Failed,Database lock contention during processing window,INC-3004
+26-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+27-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+28-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+29-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+30-Mar-2026,Nightly Data Processing Batch,Completed,-,-
+"Note: Reflects nightly data processing batch jobs for March 2026 (30 days, full population). 2 failures identified and referred to E-019 for investigation.",,,,

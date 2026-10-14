@@ -1,0 +1,8 @@
+Incident ID,Date Logged,Category,Description,Severity,Assigned To,Status
+INC-3001,10-Mar-2026,Backup Failure,Production database backup failed - storage capacity issue,High,Rohit Verma,Closed
+INC-3002,22-Mar-2026,Backup Failure,Production database backup failed - connectivity loss,High,Rohit Verma,Closed
+INC-3003,15-Mar-2026,Batch Job Failure,Nightly batch failed - upstream data delay,Medium,Neha Gupta,Closed
+INC-3004,25-Mar-2026,Batch Job Failure,Nightly batch failed - database lock contention,Medium,Neha Gupta,Closed
+INC-3005,06-Mar-2026,Network,Intermittent VPN connectivity issue reported by remote employees,Low,James Brown,Closed
+INC-3006,19-Mar-2026,Application,Users reported slow page load on billing dashboard,Low,Daniel Kim,Closed
+"Note: Reflects all IT incidents logged during March 2026 (6 total, full population). Includes both control-related incidents (backup/batch failures) and unrelated operational incidents (network, application), consistent with a typical incident register scope.",,,,,,

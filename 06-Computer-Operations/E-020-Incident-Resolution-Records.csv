@@ -1,0 +1,7 @@
+Incident ID,Resolved By,Resolution Date,Resolution Summary,Status,Closure Verified
+INC-3001,Rohit Verma,10-Mar-2026,Storage capacity increased; backup re-run successfully,Closed,Yes
+INC-3002,Rohit Verma,22-Mar-2026,Network path restored; backup re-run successfully,Closed,Yes
+INC-3003,Neha Gupta,16-Mar-2026,Batch re-run after delayed data feed arrived,Closed,Yes
+INC-3004,Neha Gupta,25-Mar-2026,Maintenance job rescheduled; batch re-run successfully,Closed,Yes
+INC-3005,James Brown,07-Mar-2026,VPN configuration issue identified and corrected,Closed,Yes
+INC-3006,Daniel Kim,20-Mar-2026,Optimized dashboard query; performance issue resolved,Closed,Yes

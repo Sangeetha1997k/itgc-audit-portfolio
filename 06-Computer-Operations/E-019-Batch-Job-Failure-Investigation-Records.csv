@@ -1,0 +1,3 @@
+Date,Batch Job Name,Failure Reason,Investigated By,Investigation Date,Root Cause,Resolution,Resolution Date
+15-Mar-2026,Nightly Data Processing Batch,"Upstream data feed delayed, job timed out",Neha Gupta,15-Mar-2026,Third-party data provider delivered feed 3 hours late,Re-ran batch job manually once feed arrived; job completed successfully,16-Mar-2026
+25-Mar-2026,Nightly Data Processing Batch,Database lock contention during processing window,Neha Gupta,25-Mar-2026,Overlapping maintenance job held a table lock during batch window,Rescheduled maintenance job outside batch window; re-ran batch successfully,25-Mar-2026

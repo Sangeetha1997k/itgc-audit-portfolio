@@ -1,0 +1,14 @@
+Request ID,Request Date,Employee ID,Employee Name,Department,Requested Application,Requested Role,Requestor,Request Type,Ticket Status
+SR-1001,12-Jan-2026,EMP001,Alex Carter,Finance,Okta,Finance Analyst,Sarah Wilson,New Hire,Closed
+SR-1002,19-Jan-2026,EMP002,Priya Sharma,HR,Okta,HR Manager,Rahul Menon,New Hire,Closed
+SR-1003,22-Jan-2026,EMP003,David Lee,IT,Okta,System Administrator,James Brown,New Hire,Closed
+SR-1004,26-Jan-2026,EMP004,Emma Johnson,Sales,Okta,Sales User,Michael Davis,Role Change,Closed
+SR-1005,28-Jan-2026,EMP005,Rohit Verma,IT,Okta,Cloud Infrastructure Engineer,James Brown,Additional Access,Closed
+SR-1006,02-Feb-2026,EMP006,Olivia Martin,Marketing,Okta,Marketing User,Grace Kim,New Hire,Closed
+SR-1007,03-Feb-2026,EMP007,Daniel Kim,Engineering,Okta,Software Engineer,Nathan Scott,New Hire,Closed
+SR-1008,04-Feb-2026,EMP008,Neha Gupta,Engineering,Okta,Senior Software Engineer,Nathan Scott,Role Change,Closed
+SR-1009,09-Feb-2026,EMP009,Chris Anderson,Finance,Okta,Accounts Payable User,Sarah Wilson,New Hire,Closed
+SR-1010,11-Feb-2026,EMP010,Ananya Rao,Customer Success,Okta,Customer Success Manager,Laura Bennett,New Hire,Closed
+SR-1011,13-Feb-2026,EMP011,Mark Thompson,IT,Okta,IT Support Engineer,James Brown,New Hire,Closed
+SR-1012,16-Feb-2026,EMP012,Sophie Turner,Legal,Okta,Legal Counsel,Robert Hayes,New Hire,Closed
+SR-1013,20-Feb-2026,EMP013,Meera Iyer,HR,Okta,Talent Acquisition Specialist,Rahul Menon,New Hire,Closed

@@ -1,0 +1,22 @@
+User ID,User Name,Department,Job Title,Okta Status,Privileged Access,Manager,Last Login
+U001,Alex Carter,Finance,Financial Analyst,Active,No,Sarah Wilson,18-Mar-2026
+U002,Priya Sharma,HR,HR Manager,Active,No,Rahul Menon,19-Mar-2026
+U003,David Lee,IT,System Administrator,Active,Yes,James Brown,19-Mar-2026
+U004,Emma Johnson,Sales,Account Executive,Active,No,Michael Davis,17-Mar-2026
+U005,Rohit Verma,IT,Cloud Infrastructure Engineer,Active,Yes,James Brown,19-Mar-2026
+U006,Olivia Martin,Marketing,Marketing Specialist,Active,No,Grace Kim,16-Mar-2026
+U007,Daniel Kim,Engineering,Software Engineer,Active,No,Nathan Scott,19-Mar-2026
+U008,Neha Gupta,Engineering,Senior Software Engineer,Active,No,Nathan Scott,18-Mar-2026
+U009,Chris Anderson,Finance,Accounts Payable Specialist,Active,No,Sarah Wilson,15-Mar-2026
+U010,Ananya Rao,Customer Success,Customer Success Manager,Active,No,Laura Bennett,18-Mar-2026
+U011,Mark Thompson,IT,IT Support Engineer,Active,No,James Brown,19-Mar-2026
+U012,Sophie Turner,Legal,Legal Counsel,Active,No,Robert Hayes,12-Mar-2026
+U013,Arjun Nair,Engineering,DevOps Engineer,Active,Yes,Nathan Scott,19-Mar-2026
+U014,Isabella Garcia,Sales,Sales Development Rep,Active,No,Michael Davis,17-Mar-2026
+U015,Kevin Wright,Operations,Operations Coordinator,Active,No,Laura Bennett,14-Mar-2026
+U016,Meera Iyer,HR,Talent Acquisition Specialist,Active,No,Rahul Menon,16-Mar-2026
+U017,Ethan Walker,Product,Product Manager,Active,No,Grace Kim,18-Mar-2026
+U018,Sanya Kapoor,Finance,Finance Manager,Active,No,Sarah Wilson,19-Mar-2026
+U019,Ryan Cooper,IT,Identity & Access Administrator,Active,Yes,James Brown,19-Mar-2026
+U020,Divya Menon,Marketing,Content Strategist,Active,No,Grace Kim,13-Mar-2026
+Note: Full Okta active user population = 600. This file is a representative extract (20 users) for portfolio demonstration purposes only.,,,,,,,

@@ -1,0 +1,14 @@
+Employee ID,Employee Name,Okta Account Status,Deactivation Date,Deactivated By,Days from Termination to Deactivation,SLA Met (1 Business Day)
+EMP101,Rachel Adams,Disabled,16-Jan-2026,Okta Workflow (Automated),1,Yes
+EMP102,Tom Baker,Disabled,21-Jan-2026,Okta Workflow (Automated),1,Yes
+EMP103,Lisa Chen,Disabled,05-Feb-2026,Ryan Cooper,0,Yes
+EMP104,Mark Diaz,Disabled,13-Feb-2026,Okta Workflow (Automated),1,Yes
+EMP105,Nina Foster,Disabled,19-Feb-2026,Okta Workflow (Automated),1,Yes
+EMP106,Omar Farouk,Disabled,25-Feb-2026,Ryan Cooper,0,Yes
+EMP107,Grace Patel,Disabled,04-Mar-2026,Okta Workflow (Automated),1,Yes
+EMP108,Steve Long,Disabled,11-Mar-2026,Okta Workflow (Automated),1,Yes
+EMP109,Julia Roberts,Disabled,24-Mar-2026,Okta Workflow (Automated),1,Yes
+EMP110,Brian Kim,Disabled,30-Mar-2026,Ryan Cooper,0,Yes
+EMP111,Angela White,Disabled,27-Mar-2026,Okta Workflow (Automated),1,Yes
+EMP112,Derek Young,Disabled,26-Mar-2026,Okta Workflow (Automated),1,Yes
+Note: The defined SLA for RCM control UAM-03 is account deactivation within 1 business day of termination. All 12 terminations met the SLA in this testing period. Involuntary terminations were deactivated the same day by a named IT/IAM administrator; voluntary terminations were deactivated the next business day via automated Okta Workflow.,,,,,,

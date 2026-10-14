@@ -1,0 +1,7 @@
+User ID,User Name,Privileged Access Type,Reviewer,Reviewer Role,Review Date,Review Decision,Comments
+U003,David Lee,Production Server Admin Access,James Brown,IT Manager,13-Mar-2026,Approved,Access appropriate; required for ongoing infrastructure support
+U005,Rohit Verma,AWS Root/Admin Access,James Brown,IT Manager,13-Mar-2026,Approved,Access appropriate; required for cloud operations
+U013,Arjun Nair,CI/CD & Production Deployment Access,Nathan Scott,Engineering Manager,13-Mar-2026,Approved,Access appropriate for DevOps responsibilities
+U019,Ryan Cooper,Okta Super Admin / Global IAM Access,James Brown,IT Manager,13-Mar-2026,Approved,Access appropriate; sole IAM administrator for the organization
+Audit Observation (Segregation of Duties):,,,,,,,
+"All IT department privileged access, including the IAM Administrator's own global super-admin access, is reviewed solely by the IT Manager. There is no independent review by a second-line function (e.g., Security or Compliance). Ryan Cooper, as the organization's sole IAM Administrator, also provisions privileged access for other IT staff (see E-006), meaning the same reporting line both grants and certifies privileged access with no independent challenge. This is a control design observation, not an operating exception — all access reviewed was found appropriate — but it represents a segregation-of-duties gap recommended for remediation (e.g., co-review by a Security/Compliance function).",,,,,,,

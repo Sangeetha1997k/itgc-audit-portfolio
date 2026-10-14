@@ -1,0 +1,15 @@
+Request ID,Employee ID,Employee Name,Provisioned Role,Provisioned By,Provisioning Date,Status
+SR-1001,EMP001,Alex Carter,Finance Analyst,Okta Workflow (Automated),12-Jan-2026,Completed
+SR-1002,EMP002,Priya Sharma,HR Manager,Okta Workflow (Automated),19-Jan-2026,Completed
+SR-1003,EMP003,David Lee,System Administrator,Ryan Cooper,22-Jan-2026,Completed
+SR-1004,EMP004,Emma Johnson,Sales User,Emily Chen,26-Jan-2026,Completed
+SR-1005,EMP005,Rohit Verma,Cloud Infrastructure Engineer,Ryan Cooper,28-Jan-2026,Completed
+SR-1006,EMP006,Olivia Martin,Marketing User,Okta Workflow (Automated),02-Feb-2026,Completed
+SR-1007,EMP007,Daniel Kim,Software Engineer,Okta Workflow (Automated),03-Feb-2026,Completed
+SR-1008,EMP008,Neha Gupta,Senior Software Engineer,Emily Chen,04-Feb-2026,Completed
+SR-1009,EMP009,Chris Anderson,Accounts Payable User,Okta Workflow (Automated),09-Feb-2026,Completed
+SR-1010,EMP010,Ananya Rao,Customer Success Manager,Okta Workflow (Automated),11-Feb-2026,Completed
+SR-1011,EMP011,Mark Thompson,IT Support Engineer,Okta Workflow (Automated),13-Feb-2026,Completed
+SR-1012,EMP012,Sophie Turner,Legal Counsel,Okta Workflow (Automated),16-Feb-2026,Completed
+SR-1013,EMP013,Meera Iyer,Talent Acquisition Specialist,Okta Workflow (Automated),20-Feb-2026,Completed
+"Note: Routine new-hire access is provisioned automatically via Okta Workflow. Privileged, role-change, and promotion-related access is provisioned manually by a named IT/IAM administrator, consistent with a higher-risk, hands-on control for non-standard access changes.",,,,,,

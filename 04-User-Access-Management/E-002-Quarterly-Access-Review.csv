@@ -1,0 +1,22 @@
+User ID,User Name,Department,Application,Access Role,Privileged Access,Reviewer,Review Date,Review Decision,Reviewer Comments,Remediation Required
+U001,Alex Carter,Finance,Okta,Finance Analyst,No,Sarah Wilson,13-Mar-2026,Approved,Access appropriate for role,No
+U002,Priya Sharma,HR,Okta,HR Manager,No,Rahul Menon,13-Mar-2026,Approved,Access appropriate for responsibilities,No
+U003,David Lee,IT,Okta,System Administrator,Yes,James Brown,13-Mar-2026,Approved,Privileged access verified,No
+U004,Emma Johnson,Sales,Okta,Sales User,No,Michael Davis,13-Mar-2026,Approved,Access appropriate for responsibilities,No
+U005,Rohit Verma,IT,Okta,Cloud Infrastructure Engineer,Yes,James Brown,13-Mar-2026,Approved,Privileged access verified,No
+U006,Olivia Martin,Marketing,Okta,Marketing User,No,Grace Kim,13-Mar-2026,Approved,Access appropriate for role,No
+U007,Daniel Kim,Engineering,Okta,Software Engineer,No,Nathan Scott,13-Mar-2026,Approved,Access appropriate for role,No
+U008,Neha Gupta,Engineering,Okta,Senior Software Engineer,No,Nathan Scott,13-Mar-2026,Approved,Access appropriate for role,No
+U009,Chris Anderson,Finance,Okta,Accounts Payable User,No,Sarah Wilson,13-Mar-2026,Approved,Access appropriate for role,No
+U010,Ananya Rao,Customer Success,Okta,Customer Success Manager,No,Laura Bennett,13-Mar-2026,Approved,Access appropriate for responsibilities,No
+U011,Mark Thompson,IT,Okta,IT Support Engineer,No,James Brown,13-Mar-2026,Approved,Access appropriate for role,No
+U012,Sophie Turner,Legal,Okta,Legal Counsel,No,Robert Hayes,13-Mar-2026,Approved,Access appropriate for role,No
+U013,Arjun Nair,Engineering,Okta,DevOps Engineer,Yes,Nathan Scott,13-Mar-2026,Approved,Privileged access verified,No
+U014,Isabella Garcia,Sales,Okta,Sales Development Rep,No,Michael Davis,13-Mar-2026,Approved,Access appropriate for role,No
+U015,Kevin Wright,Operations,Okta,Operations Coordinator,No,Laura Bennett,13-Mar-2026,Approved,Access appropriate for role,No
+U016,Meera Iyer,HR,Okta,Talent Acquisition Specialist,No,Rahul Menon,13-Mar-2026,Approved,Access appropriate for role,No
+U017,Ethan Walker,Product,Okta,Product Manager,No,Grace Kim,13-Mar-2026,Approved,Access appropriate for role,No
+U018,Sanya Kapoor,Finance,Okta,Finance Manager,No,Sarah Wilson,13-Mar-2026,Approved,Access appropriate for role,No
+U019,Ryan Cooper,IT,Okta,Identity & Access Administrator,Yes,James Brown,13-Mar-2026,Approved,Privileged access verified,No
+U020,Divya Menon,Marketing,Okta,Content Strategist,No,Grace Kim,13-Mar-2026,Approved,Access appropriate for role,No
+"Note: Reflects Q1 2026 quarterly access review, covering all 20 users in the E-001 population extract. Reviews performed by each user's direct manager/application owner. No exceptions identified in this cycle.",,,,,,,,,,

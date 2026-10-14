@@ -1,0 +1,10 @@
+Review Period,Review Type,Reviewer Name,Reviewer Role,Review Completion Date,Approval Status,Comments
+Q1 2026,Quarterly User Access Review,Sarah Wilson,Finance Application Owner,13-Mar-2026,Completed,Finance department user access reviewed and approved
+Q1 2026,Quarterly User Access Review,Rahul Menon,HR Application Owner,13-Mar-2026,Completed,HR department user access reviewed and approved
+Q1 2026,Quarterly User Access Review,James Brown,IT Administrator,13-Mar-2026,Completed,"IT department user access reviewed, including privileged accounts"
+Q1 2026,Quarterly User Access Review,Michael Davis,Sales Application Owner,13-Mar-2026,Completed,Sales department access reviewed and approved. No exceptions identified.
+Q1 2026,Quarterly User Access Review,Grace Kim,Marketing Application Owner,13-Mar-2026,Completed,Marketing and Product department user access reviewed and approved
+Q1 2026,Quarterly User Access Review,Nathan Scott,Engineering Application Owner,13-Mar-2026,Completed,"Engineering department access reviewed, including privileged accounts"
+Q1 2026,Quarterly User Access Review,Laura Bennett,Customer Success Application Owner,13-Mar-2026,Completed,Customer Success and Operations department access reviewed and approved
+Q1 2026,Quarterly User Access Review,Robert Hayes,Legal Application Owner,13-Mar-2026,Completed,Legal department user access reviewed and approved
+"Note: Confirms each application owner/administrator with review responsibility in E-002 completed and approved their assigned portion of the Q1 2026 access review, covering all 20 users in the E-001 population. Read together with E-001 (population) and E-002 (per-user decisions) as the full body of evidence for UAM-01.",,,,,,

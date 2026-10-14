@@ -39,14 +39,14 @@ at this meeting are follow-up evidence that does not change the audit conclusion
 | Ref | Required input | Source |
 |---|---|---|
 | a | Status of actions from previous management reviews | None. This is the first review. |
-| b | Changes in external and internal issues | `08-ISO27001-Context/ISMS-Scope.md` |
-| c | Changes in needs and expectations of interested parties | `08-ISO27001-Context/Interested-Parties-Register.xlsx` |
-| d(1) | Trends in nonconformities and corrective actions | `12-ISO27001-Internal-Audit/Internal-Audit-Report.md` (ISO-001 to ISO-005) |
-| d(2) | Monitoring and measurement results | `07-Audit-Report/` (ITGC interim testing, Q1 2026) |
-| d(3) | Audit results | `12-ISO27001-Internal-Audit/` and `07-Audit-Report/` |
+| b | Changes in external and internal issues | [`08-ISO27001-Context/ISMS-Scope.md`](../08-ISO27001-Context/ISMS-Scope.md) |
+| c | Changes in needs and expectations of interested parties | [`08-ISO27001-Context/Interested-Parties-Register.xlsx`](../08-ISO27001-Context/Interested-Parties-Register.xlsx) |
+| d(1) | Trends in nonconformities and corrective actions | [`12-ISO27001-Internal-Audit/Internal-Audit-Report.md`](../12-ISO27001-Internal-Audit/Internal-Audit-Report.md) (ISO-001 to ISO-005) |
+| d(2) | Monitoring and measurement results | [`07-Audit-Report/`](../07-Audit-Report/) (ITGC interim testing, Q1 2026) |
+| d(3) | Audit results | [`12-ISO27001-Internal-Audit/`](../12-ISO27001-Internal-Audit/) and [`07-Audit-Report/`](../07-Audit-Report/) |
 | d(4) | Fulfilment of information security objectives | No documented information security objectives (Clause 6.2) are held in the ISMS records. Status and management's decision are recorded in the minutes. |
 | e | Feedback from interested parties | None recorded |
-| f | Results of risk assessment and status of risk treatment plan | `09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`; `11-ISO27001-Statement-of-Applicability/SoA.xlsx` |
+| f | Results of risk assessment and status of risk treatment plan | [`09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`](../09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx); [`11-ISO27001-Statement-of-Applicability/SoA.xlsx`](../11-ISO27001-Statement-of-Applicability/SoA.xlsx) |
 | g | Opportunities for continual improvement | Observations ISO-003 to ISO-005; recommendations in the audit reports |
 
 ---
@@ -84,24 +84,24 @@ Residual ratings for discussion: 4 Low, 7 Medium, 1 High (R-010).
 
 ## Pre-reading
 
-- `12-ISO27001-Internal-Audit/Internal-Audit-Report.md`
-- `07-Audit-Report/README.md`
-- `09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`
-- `11-ISO27001-Statement-of-Applicability/SoA.xlsx`
+- [`12-ISO27001-Internal-Audit/Internal-Audit-Report.md`](../12-ISO27001-Internal-Audit/Internal-Audit-Report.md)
+- [`07-Audit-Report/README.md`](../07-Audit-Report/README.md)
+- [`09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`](../09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx)
+- [`11-ISO27001-Statement-of-Applicability/SoA.xlsx`](../11-ISO27001-Statement-of-Applicability/SoA.xlsx)
 
 ---
 
 ## Outputs
 
-Decisions are recorded in `Management-Review-Minutes.md`, and actions are tracked in
-`Improvement-Action-Tracker.xlsx`.
+Decisions are recorded in [`Management-Review-Minutes.md`](Management-Review-Minutes.md), and actions are tracked in
+[`Improvement-Action-Tracker.xlsx`](Improvement-Action-Tracker.xlsx).
 
 ---
 
 ## Related Documents
 
-- `Management-Review-Minutes.md`
-- `Improvement-Action-Tracker.xlsx`
-- `12-ISO27001-Internal-Audit/`
-- `09-ISO27001-Risk-Assessment/`
-- `11-ISO27001-Statement-of-Applicability/`
+- [`Management-Review-Minutes.md`](Management-Review-Minutes.md)
+- [`Improvement-Action-Tracker.xlsx`](Improvement-Action-Tracker.xlsx)
+- [`12-ISO27001-Internal-Audit/`](../12-ISO27001-Internal-Audit/)
+- [`09-ISO27001-Risk-Assessment/`](../09-ISO27001-Risk-Assessment/)
+- [`11-ISO27001-Statement-of-Applicability/`](../11-ISO27001-Statement-of-Applicability/)

@@ -33,8 +33,8 @@ Information security risks are identified by considering:
 - Information assets
 - Business processes
 - Technology dependencies
-- Internal and external context (see `08-ISO27001-Context/ISMS-Scope.md`)
-- Interested party requirements (see `08-ISO27001-Context/Interested-Parties-Register.xlsx`)
+- Internal and external context (see [`08-ISO27001-Context/ISMS-Scope.md`](../08-ISO27001-Context/ISMS-Scope.md))
+- Interested party requirements (see [`08-ISO27001-Context/Interested-Parties-Register.xlsx`](../08-ISO27001-Context/Interested-Parties-Register.xlsx))
 - Legal, regulatory, and contractual requirements
 - Existing ITGC control testing results and audit observations
 
@@ -139,8 +139,8 @@ following principles apply:
 
 The selected treatment decision is documented in the Risk Register together with
 the planned action, risk owner, and action owner. Implementation progress is tracked through
-the Improvement Action Tracker (`Improvement-Action-Tracker.xlsx`) within the
-`13-Management-Review/` folder.
+the Improvement Action Tracker ([`Improvement-Action-Tracker.xlsx`](../13-Management-Review/Improvement-Action-Tracker.xlsx)) within the
+[`13-Management-Review/`](../13-Management-Review/) folder.
 
 For risks requiring treatment, BlueSky selects one of the following options:
 
@@ -188,10 +188,10 @@ Risk assessments are reviewed:
 
 ## Related Portfolio References
 
-- ISMS Scope and Context: `08-ISO27001-Context/ISMS-Scope.md`
-- Interested Parties: `08-ISO27001-Context/Interested-Parties-Register.xlsx`
-- Risk Register: `09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`
-- ITGC control testing: `04-User-Access-Management/`, `05-Change-Management/`,
-  `06-Computer-Operations/`
-- ITGC audit observations: `07-Audit-Report/`
-- Management review and action tracking: `13-Management-Review/`
+- ISMS Scope and Context: [`08-ISO27001-Context/ISMS-Scope.md`](../08-ISO27001-Context/ISMS-Scope.md)
+- Interested Parties: [`08-ISO27001-Context/Interested-Parties-Register.xlsx`](../08-ISO27001-Context/Interested-Parties-Register.xlsx)
+- Risk Register: [`09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`](ISO27001-Risk-Register.xlsx)
+- ITGC control testing: [`04-User-Access-Management/`](../04-User-Access-Management/), [`05-Change-Management/`](../05-Change-Management/),
+  [`06-Computer-Operations/`](../06-Computer-Operations/)
+- ITGC audit observations: [`07-Audit-Report/`](../07-Audit-Report/)
+- Management review and action tracking: [`13-Management-Review/`](../13-Management-Review/)

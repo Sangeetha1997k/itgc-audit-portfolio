@@ -12,4 +12,3 @@ SR-1010,EMP010,Ananya Rao,Customer Success Manager,Okta Workflow (Automated),11-
 SR-1011,EMP011,Mark Thompson,IT Support Engineer,Okta Workflow (Automated),13-Feb-2026,Completed
 SR-1012,EMP012,Sophie Turner,Legal Counsel,Okta Workflow (Automated),16-Feb-2026,Completed
 SR-1013,EMP013,Meera Iyer,Talent Acquisition Specialist,Okta Workflow (Automated),20-Feb-2026,Completed
-"Note: Routine new-hire access is provisioned automatically via Okta Workflow. Privileged, role-change, and promotion-related access is provisioned manually by a named IT/IAM administrator, consistent with a higher-risk, hands-on control for non-standard access changes.",,,,,,

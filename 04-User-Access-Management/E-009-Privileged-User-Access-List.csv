@@ -3,4 +3,3 @@ U003,David Lee,IT,System Administrator,Production Server Admin Access,22-Jan-202
 U005,Rohit Verma,IT,Cloud Infrastructure Engineer,AWS Root/Admin Access,28-Jan-2026,Ryan Cooper,Required for cloud infrastructure management and deployment
 U013,Arjun Nair,Engineering,DevOps Engineer,CI/CD & Production Deployment Access,15-Sep-2025,"IT Administrator (legacy grant, pre-dates audit period)",Required for deployment pipeline administration
 U019,Ryan Cooper,IT,Identity & Access Administrator,Okta Super Admin / Global IAM Access,10-Mar-2023,James Brown,Required to administer the organization's identity and access management platform
-Note: Matches privileged users flagged 'Yes' in E-001. David Lee's and Rohit Verma's access grant dates and grantor tie directly to their provisioning records in E-006. Arjun Nair's and Ryan Cooper's privileged access pre-date the audit period and are therefore subject to periodic review rather than provisioning testing.,,,,,,,

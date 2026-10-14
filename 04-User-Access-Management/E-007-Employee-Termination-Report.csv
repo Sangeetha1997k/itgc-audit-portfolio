@@ -11,4 +11,3 @@ EMP109,Julia Roberts,Legal,Paralegal,23-Mar-2026,Voluntary,23-Mar-2026
 EMP110,Brian Kim,Product,Associate Product Manager,30-Mar-2026,Involuntary,30-Mar-2026
 EMP111,Angela White,Operations,Operations Analyst,26-Mar-2026,Voluntary,26-Mar-2026
 EMP112,Derek Young,Engineering,Backend Developer,25-Mar-2026,Voluntary,25-Mar-2026
-"Note: Reflects all employee terminations during the audit period (12 total), tested as full population. HR notifies IT the same day as termination in all cases; involuntary terminations are flagged for same-day, priority deactivation.",,,,,,

@@ -11,4 +11,3 @@ EMP109,Julia Roberts,Disabled,24-Mar-2026,Okta Workflow (Automated),1,Yes
 EMP110,Brian Kim,Disabled,30-Mar-2026,Ryan Cooper,0,Yes
 EMP111,Angela White,Disabled,27-Mar-2026,Okta Workflow (Automated),1,Yes
 EMP112,Derek Young,Disabled,26-Mar-2026,Okta Workflow (Automated),1,Yes
-Note: The defined SLA for RCM control UAM-03 is account deactivation within 1 business day of termination. All 12 terminations met the SLA in this testing period. Involuntary terminations were deactivated the same day by a named IT/IAM administrator; voluntary terminations were deactivated the next business day via automated Okta Workflow.,,,,,,

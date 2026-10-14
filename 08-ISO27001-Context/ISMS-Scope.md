@@ -65,7 +65,7 @@ The ISMS has dependencies with:
 
 ## Related Portfolio References
 
-- ITGC Audit Scope: `02-Audit-Planning/README.md`
-- Company Technology Environment: `01-Company-Profile/README.md`
-- Existing ITGC Control Testing: `04-User-Access-Management/`,
-  `05-Change-Management/`, `06-Computer-Operations/`
+- ITGC Audit Scope: [`02-Audit-Planning/README.md`](../02-Audit-Planning/README.md)
+- Company Technology Environment: [`01-Company-Profile/README.md`](../01-Company-Profile/README.md)
+- Existing ITGC Control Testing: [`04-User-Access-Management/`](../04-User-Access-Management/),
+  [`05-Change-Management/`](../05-Change-Management/), [`06-Computer-Operations/`](../06-Computer-Operations/)

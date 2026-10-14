@@ -29,4 +29,3 @@ Batch Date,Batch Job Name,Status,Failure Reason,Incident ID
 28-Mar-2026,Nightly Data Processing Batch,Completed,-,-
 29-Mar-2026,Nightly Data Processing Batch,Completed,-,-
 30-Mar-2026,Nightly Data Processing Batch,Completed,-,-
-"Note: Reflects nightly data processing batch jobs for March 2026 (30 days, full population). 2 failures identified and referred to E-019 for investigation.",,,,

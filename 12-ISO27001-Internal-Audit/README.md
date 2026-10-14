@@ -16,9 +16,9 @@ another.
 
 | File | Description |
 |---|---|
-| `Audit-Plan.md` | Audit objective, criteria, scope, approach, timeline and objectivity |
-| `Audit-Checklist.xlsx` | 26 audit checks with evidence examined, method, result and finding reference; includes a Result Key and result totals |
-| `Internal-Audit-Report.md` | Findings, conclusion, recommendations and follow-up |
+| [`Audit-Plan.md`](Audit-Plan.md) | Audit objective, criteria, scope, approach, timeline and objectivity |
+| [`Audit-Checklist.xlsx`](Audit-Checklist.xlsx) | 26 audit checks with evidence examined, method, result and finding reference; includes a Result Key and result totals |
+| [`Internal-Audit-Report.md`](Internal-Audit-Report.md) | Findings, conclusion, recommendations and follow-up |
 
 ---
 
@@ -58,7 +58,7 @@ nonconformities were identified.
 | ISO-004 | Observation | 8.2 | No defined risk assessment interval or assessment date |
 | ISO-005 | Observation (carried forward) | 5.3, 5.35, 8.2 | Privileged access review lacks independence from IT (UAM-04) |
 
-Full conditions, effects and recommendations are in `Internal-Audit-Report.md`.
+Full conditions, effects and recommendations are in [`Internal-Audit-Report.md`](Internal-Audit-Report.md).
 
 ---
 
@@ -87,7 +87,7 @@ Interviews were not part of this engagement.
 
 ## Follow-up
 
-Corrective actions are tracked in `13-Management-Review/Improvement-Action-Tracker.xlsx`.
+Corrective actions are tracked in [`13-Management-Review/Improvement-Action-Tracker.xlsx`](../13-Management-Review/Improvement-Action-Tracker.xlsx).
 The follow-up to ISO-001 depends on the risk-owner decisions recorded at the
 management review. Closure is to be verified in a later audit.
 
@@ -95,9 +95,9 @@ management review. Closure is to be verified in a later audit.
 
 ## Related Documents
 
-- `08-ISO27001-Context/`
-- `09-ISO27001-Risk-Assessment/`
-- `10-ISO27001-Control-Mapping/`
-- `11-ISO27001-Statement-of-Applicability/`
-- `07-Audit-Report/`
-- `13-Management-Review/`
+- [`08-ISO27001-Context/`](../08-ISO27001-Context/)
+- [`09-ISO27001-Risk-Assessment/`](../09-ISO27001-Risk-Assessment/)
+- [`10-ISO27001-Control-Mapping/`](../10-ISO27001-Control-Mapping/)
+- [`11-ISO27001-Statement-of-Applicability/`](../11-ISO27001-Statement-of-Applicability/)
+- [`07-Audit-Report/`](../07-Audit-Report/)
+- [`13-Management-Review/`](../13-Management-Review/)

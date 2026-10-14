@@ -11,4 +11,3 @@ CHG-2009,04-Mar-2026,AWS - Web Application,Fix UI bug in billing dashboard,Stand
 CHG-2010,11-Mar-2026,AWS - Network Security Groups,Update security group rules for new service,Normal,David Lee,Closed
 CHG-2011,18-Mar-2026,AWS - API Service,Deploy new authentication microservice,Normal,Arjun Nair,Closed
 CHG-2012,25-Mar-2026,AWS - Database,Apply critical security patch to database engine,Normal,Neha Gupta,Closed
-"Note: Reflects all production changes completed during the audit period (12 total), tested as full population. 'Standard' changes are lower-risk, pre-approved recurring change types; 'Normal' changes require full CAB-style review. No Emergency changes occurred in this period.",,,,,,

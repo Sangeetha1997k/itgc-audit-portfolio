@@ -66,7 +66,7 @@ Coverage: Tested (Q1 interim); design gap noted
 
 ## Coverage Interpretation
 
-The Coverage column in `Annex-A-2022-Control-Mapping.xlsx` describes the level of
+The Coverage column in [`Annex-A-2022-Control-Mapping.xlsx`](Annex-A-2022-Control-Mapping.xlsx) describes the level of
 assurance available for the mapped control. The coverage value refers to the mapped
 ITGC control. Where that control does not support every Annex A control on a row,
 the exceptions are named in the Coverage column.
@@ -82,7 +82,7 @@ Qualifiers added after the coverage value:
 | Qualifier | Meaning |
 |---|---|
 | not directly tested: [controls] | The named Annex A controls are mapped to the risk, but the ITGC testing did not examine them. |
-| design gap noted | The control operated as tested, but its design has a weakness (see `07-Audit-Report/`). |
+| design gap noted | The control operated as tested, but its design has a weakness (see [`07-Audit-Report/`](../07-Audit-Report/)). |
 | restore testing not covered | The control was tested, but a related activity is outside the ITGC scope. |
 | third-party trust relationships not tested | Security within connected third-party applications was outside the testing scope. |
 | control gap | No control within the current scope addresses the risk. |
@@ -107,10 +107,10 @@ Applicability (SoA).
 
 | ITGC Area | Related Folder |
 |---|---|
-| User Access Management | `04-User-Access-Management/` |
-| Change Management | `05-Change-Management/` |
-| Computer Operations | `06-Computer-Operations/` |
-| Audit Observations | `07-Audit-Report/` |
+| User Access Management | [`04-User-Access-Management/`](../04-User-Access-Management/) |
+| Change Management | [`05-Change-Management/`](../05-Change-Management/) |
+| Computer Operations | [`06-Computer-Operations/`](../06-Computer-Operations/) |
+| Audit Observations | [`07-Audit-Report/`](../07-Audit-Report/) |
 
 ---
 
@@ -125,7 +125,7 @@ Applicability (SoA).
 
 ## Related Documents
 
-- `09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`
-- `09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md`
-- `11-ISO27001-Statement-of-Applicability/`
-- `13-Management-Review/`
+- [`09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`](../09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx)
+- [`09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md`](../09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md)
+- [`11-ISO27001-Statement-of-Applicability/`](../11-ISO27001-Statement-of-Applicability/)
+- [`13-Management-Review/`](../13-Management-Review/)

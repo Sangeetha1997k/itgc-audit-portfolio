@@ -9,7 +9,7 @@
 | Date | 12 June 2026 |
 | Chair | Top Management |
 | Minutes prepared by | IT Manager |
-| Agenda | `Management-Review-Agenda.md` |
+| Agenda | [`Management-Review-Agenda.md`](Management-Review-Agenda.md) |
 
 ## Attendance (by role)
 
@@ -65,7 +65,7 @@ Decisions follow the acceptance rules in the Risk Assessment Methodology.
 
 **R-010:** the residual risk is High, and Top Management directed that it is not
 accepted, including on a temporary basis. Implementation of the treatment is required,
-with the due date set in `Improvement-Action-Tracker.xlsx` (ACT-07).
+with the due date set in [`Improvement-Action-Tracker.xlsx`](Improvement-Action-Tracker.xlsx) (ACT-07).
 
 **R-004:** the Risk Owner (IT Manager) accepts the residual risk on the condition that
 independent review is introduced. The Action Owner is the Security/Compliance function
@@ -133,7 +133,7 @@ findings and the remaining gaps.
 
 ## 6. Actions
 
-Actions, owners, due dates and closure evidence are in `Improvement-Action-Tracker.xlsx`
+Actions, owners, due dates and closure evidence are in [`Improvement-Action-Tracker.xlsx`](Improvement-Action-Tracker.xlsx)
 (ACT-01 to ACT-14).
 
 ---
@@ -150,8 +150,8 @@ decisions.
 
 ## Related Documents
 
-- `Management-Review-Agenda.md`
-- `Improvement-Action-Tracker.xlsx`
-- `12-ISO27001-Internal-Audit/Internal-Audit-Report.md`
-- `09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`
-- `11-ISO27001-Statement-of-Applicability/SoA.xlsx`
+- [`Management-Review-Agenda.md`](Management-Review-Agenda.md)
+- [`Improvement-Action-Tracker.xlsx`](Improvement-Action-Tracker.xlsx)
+- [`12-ISO27001-Internal-Audit/Internal-Audit-Report.md`](../12-ISO27001-Internal-Audit/Internal-Audit-Report.md)
+- [`09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`](../09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx)
+- [`11-ISO27001-Statement-of-Applicability/SoA.xlsx`](../11-ISO27001-Statement-of-Applicability/SoA.xlsx)

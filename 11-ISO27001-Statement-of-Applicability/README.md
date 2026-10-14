@@ -15,7 +15,7 @@ the risks it is linked to, and the supporting ITGC evidence where it exists.
 
 | File | Description |
 |---|---|
-| `SoA.xlsx` | Statement of Applicability covering all 93 Annex A controls |
+| [`SoA.xlsx`](SoA.xlsx) | Statement of Applicability covering all 93 Annex A controls |
 
 ---
 
@@ -29,7 +29,7 @@ the risks it is linked to, and the supporting ITGC evidence where it exists.
 | Control Owner | Current role or planned function accountable for the control; planned ownership is identified where the function has not yet been established. |
 | Justification | Reason the control is included or excluded |
 | Implementation Status | See status definitions below |
-| Linked Risk(s) | Risks the control is mapped to in `10-ISO27001-Control-Mapping/` |
+| Linked Risk(s) | Risks the control is mapped to in [`10-ISO27001-Control-Mapping/`](../10-ISO27001-Control-Mapping/) |
 | ITGC Evidence | Reference to an ITGC workpaper or other supporting evidence where available. A reference does not by itself indicate that the control was tested or found effective; assessment scope and limitations are recorded in the other fields. |
 
 ---
@@ -49,8 +49,8 @@ the risks it is linked to, and the supporting ITGC evidence where it exists.
 ## Applicability Approach
 
 All 93 Annex A controls were evaluated individually against the ISMS scope
-(`08-ISO27001-Context/ISMS-Scope.md`), the risks in
-`09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`, and BlueSky Technologies'
+([`08-ISO27001-Context/ISMS-Scope.md`](../08-ISO27001-Context/ISMS-Scope.md)), the risks in
+[`09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`](../09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx), and BlueSky Technologies'
 activities and responsibilities. A control may be excluded where it falls outside the
 defined ISMS scope, is the responsibility of an external provider outside BlueSky's
 assessed responsibilities, or does not apply to the activities currently described.
@@ -94,15 +94,15 @@ If the ISMS scope changes, excluded controls must be re-evaluated.
 ## Planned Controls
 
 Controls marked Planned are the approved treatments for risks identified in the Risk
-Register. The approvals are recorded in `13-Management-Review/`.
+Register. The approvals are recorded in [`13-Management-Review/`](../13-Management-Review/).
 
 ---
 
 ## Related Documents
 
-- `08-ISO27001-Context/ISMS-Scope.md`
-- `09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`
-- `09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md`
-- `10-ISO27001-Control-Mapping/Annex-A-2022-Control-Mapping.xlsx`
-- `07-Audit-Report/`
-- `13-Management-Review/`
+- [`08-ISO27001-Context/ISMS-Scope.md`](../08-ISO27001-Context/ISMS-Scope.md)
+- [`09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx`](../09-ISO27001-Risk-Assessment/ISO27001-Risk-Register.xlsx)
+- [`09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md`](../09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md)
+- [`10-ISO27001-Control-Mapping/Annex-A-2022-Control-Mapping.xlsx`](../10-ISO27001-Control-Mapping/Annex-A-2022-Control-Mapping.xlsx)
+- [`07-Audit-Report/`](../07-Audit-Report/)
+- [`13-Management-Review/`](../13-Management-Review/)

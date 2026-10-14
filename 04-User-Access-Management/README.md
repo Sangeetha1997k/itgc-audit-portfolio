@@ -72,6 +72,26 @@ Testing will verify that:
 
 ---
 
+## Test Results (Q1 2026 Interim)
+
+| Test ID | Control | Population | Evidence | Exceptions | Result |
+|---|---|---|---|---|---|
+| UAM-T001 | UAM-01 Quarterly access review | 1 review covering 20 users | E-001, E-002, E-003 | None | Pass |
+| UAM-T002 | UAM-02 User provisioning | 13 access requests | E-004, E-005, E-006 | None | Pass |
+| UAM-T003 | UAM-03 User deprovisioning | 12 terminations | E-007, E-008 | None | Pass |
+| UAM-T004 | UAM-04 Privileged access review | 1 review covering 4 privileged accounts | E-001, E-009, E-010 | None (design observation noted) | Pass |
+
+The design observation concerns segregation of duties in the privileged access review. It is explained in [`07-Audit-Report/`](../07-Audit-Report/).
+
+## Files in this Folder
+
+| File | View in browser |
+|---|---|
+| [`UAM-Test-Workpaper.xlsx`](UAM-Test-Workpaper.xlsx) | [PDF copy](UAM-Test-Workpaper.pdf) |
+| Evidence E-001 to E-010 (`.xlsx` originals) | CSV copy of each, for example [`E-001`](E-001-Okta-User-Export.csv) |
+
+---
+
 ## Expected Deliverables
 
 - User Access Management Test Workpaper

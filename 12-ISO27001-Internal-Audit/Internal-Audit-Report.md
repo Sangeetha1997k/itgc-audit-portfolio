@@ -49,8 +49,8 @@ effectively implemented and maintained.
 
 - ISO/IEC 27001:2022 requirements relevant to the defined audit scope: Clauses 4.1 to
   4.3, 6.1.2, 6.1.3, 8.2 and 8.3, and selected Annex A controls from Table A.1
-- Risk Assessment Methodology (`09-ISO27001-Risk-Assessment/`)
-- ISMS Scope Statement (`08-ISO27001-Context/`)
+- Risk Assessment Methodology ([`09-ISO27001-Risk-Assessment/`](../09-ISO27001-Risk-Assessment/))
+- ISMS Scope Statement ([`08-ISO27001-Context/`](../08-ISO27001-Context/))
 
 ---
 
@@ -93,7 +93,7 @@ approve the risk treatment decisions.
   are subsequent follow-up evidence and do not retrospectively change the audit
   conclusion as of 22 May 2026.
 
-Detailed checks are recorded in `Audit-Checklist.xlsx`.
+Detailed checks are recorded in [`Audit-Checklist.xlsx`](Audit-Checklist.xlsx).
 
 ---
 
@@ -201,7 +201,7 @@ record the assessment date in the register.
 | Clause or control | Annex A 5.3, 5.35, 8.2 |
 | Checklist | CK-26 |
 | Risk link | R-004 |
-| Source | `07-Audit-Report/`, Observation 1 |
+| Source | [`07-Audit-Report/`](../07-Audit-Report/), Observation 1 |
 
 **Condition:** privileged access provisioning and periodic review are performed within
 the same IT reporting line, without independent oversight. ITGC testing (UAM-T004)
@@ -238,27 +238,27 @@ the full audit period.
 
 | Finding | Type | Planned closure |
 |---|---|---|
-| ISO-001 | Minor nonconformity | Risk-owner approvals and residual-risk decisions documented at management review for all 12 risks (`13-Management-Review/`); further treatment for R-010 tracked |
+| ISO-001 | Minor nonconformity | Risk-owner approvals and residual-risk decisions documented at management review for all 12 risks ([`13-Management-Review/`](../13-Management-Review/)); further treatment for R-010 tracked |
 | ISO-002 | Minor nonconformity | Interested Parties Register updated |
 | ISO-003 | Observation | Risk Register updated |
 | ISO-004 | Observation | Methodology and register updated |
 | ISO-005 | Observation | Independent co-review implemented (SoA 5.35) |
 
-Actions will be tracked in `13-Management-Review/Improvement-Action-Tracker.xlsx`.
+Actions will be tracked in [`13-Management-Review/Improvement-Action-Tracker.xlsx`](../13-Management-Review/Improvement-Action-Tracker.xlsx).
 Closure will be verified in a follow-up audit.
 
 ---
 
 ## Related Documents
 
-- `Audit-Plan.md`
-- `Audit-Checklist.xlsx`
-- `07-Audit-Report/`
-- `08-ISO27001-Context/`
-- `09-ISO27001-Risk-Assessment/`
-- `10-ISO27001-Control-Mapping/`
-- `11-ISO27001-Statement-of-Applicability/`
-- `13-Management-Review/`
+- [`Audit-Plan.md`](Audit-Plan.md)
+- [`Audit-Checklist.xlsx`](Audit-Checklist.xlsx)
+- [`07-Audit-Report/`](../07-Audit-Report/)
+- [`08-ISO27001-Context/`](../08-ISO27001-Context/)
+- [`09-ISO27001-Risk-Assessment/`](../09-ISO27001-Risk-Assessment/)
+- [`10-ISO27001-Control-Mapping/`](../10-ISO27001-Control-Mapping/)
+- [`11-ISO27001-Statement-of-Applicability/`](../11-ISO27001-Statement-of-Applicability/)
+- [`13-Management-Review/`](../13-Management-Review/)
 
 ---
 

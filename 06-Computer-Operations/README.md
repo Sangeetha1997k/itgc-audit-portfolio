@@ -61,4 +61,15 @@ Testing will verify that:
 - Backup jobs were monitored daily, and failures were identified.
 - Failed backup jobs were investigated and resolved.
 - Batch jobs were monitored, and failures were identified.
+- Failed batch jobs were investigated and remediated.
+- IT incidents were logged, assigned, tracked, escalated, and resolved.
+- Supporting evidence was available to show monitoring, investigation, resolution, and closure activities.
+
+---
+
+## Expected Deliverables
+
+- Computer Operations Test Workpaper
+- Supporting Evidence
+- Audit Conclusions
   

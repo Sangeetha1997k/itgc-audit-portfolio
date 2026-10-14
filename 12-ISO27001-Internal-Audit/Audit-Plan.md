@@ -10,7 +10,7 @@
 | Audit period reviewed | Q1 2026 (January to March 2026) |
 | Planned timeline | Planning: 4 May 2026. Fieldwork: 11 to 15 May 2026. Report: 22 May 2026 |
 | Auditor | Internal Auditor (IT Audit), independent of the areas audited |
-| Report recipient | Top management (see `13-Management-Review/`) |
+| Report recipient | Top management (see [`13-Management-Review/`](../13-Management-Review/)) |
 
 ---
 
@@ -20,7 +20,7 @@ To determine whether the BlueSky Technologies ISMS:
 
 - Conforms to the requirements of ISO/IEC 27001:2022 within the audit scope
 - Conforms to the organization's own ISMS requirements, as set out in
-  `08-ISO27001-Context/` and `09-ISO27001-Risk-Assessment/`
+  [`08-ISO27001-Context/`](../08-ISO27001-Context/) and [`09-ISO27001-Risk-Assessment/`](../09-ISO27001-Risk-Assessment/)
 - Is effectively implemented and maintained within the audit scope
 
 ---
@@ -29,8 +29,8 @@ To determine whether the BlueSky Technologies ISMS:
 
 - ISO/IEC 27001:2022 requirements relevant to the defined audit scope: Clauses 4.1 to
   4.3, 6.1.2, 6.1.3, 8.2 and 8.3, and selected Annex A controls from Table A.1
-- Risk Assessment Methodology (`09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md`)
-- ISMS Scope Statement (`08-ISO27001-Context/ISMS-Scope.md`)
+- Risk Assessment Methodology ([`09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md`](../09-ISO27001-Risk-Assessment/Risk-Assessment-Methodology.md))
+- ISMS Scope Statement ([`08-ISO27001-Context/ISMS-Scope.md`](../08-ISO27001-Context/ISMS-Scope.md))
 
 ---
 
@@ -63,7 +63,7 @@ The scope above was selected using the importance of the processes concerned and
 results of previous audits:
 
 - Risk assessment and treatment (Clause 6) are central to the ISMS.
-- The ITGC interim audit (`07-Audit-Report/`) raised one design observation
+- The ITGC interim audit ([`07-Audit-Report/`](../07-Audit-Report/)) raised one design observation
   (segregation of duties in privileged access review, UAM-04), which is followed up here.
 - Requirements of Clauses 6.1.1, 6.2, 6.3 and 8.1, and Clauses 5, 7 and 10, are not
   audited this cycle. They should be covered in a later cycle, so that all ISMS
@@ -99,16 +99,16 @@ documented information.
 
 | Deliverable | File | Content |
 |---|---|---|
-| Audit checklist | `Audit-Checklist.xlsx` | Audit questions, evidence examined, method, result and finding reference |
-| Audit report | `Internal-Audit-Report.md` | Findings, conclusion, recommendations and follow-up actions |
+| Audit checklist | [`Audit-Checklist.xlsx`](Audit-Checklist.xlsx) | Audit questions, evidence examined, method, result and finding reference |
+| Audit report | [`Internal-Audit-Report.md`](Internal-Audit-Report.md) | Findings, conclusion, recommendations and follow-up actions |
 
 ---
 
 ## Related Documents
 
-- `08-ISO27001-Context/`
-- `09-ISO27001-Risk-Assessment/`
-- `10-ISO27001-Control-Mapping/`
-- `11-ISO27001-Statement-of-Applicability/`
-- `07-Audit-Report/`
-- `13-Management-Review/`
+- [`08-ISO27001-Context/`](../08-ISO27001-Context/)
+- [`09-ISO27001-Risk-Assessment/`](../09-ISO27001-Risk-Assessment/)
+- [`10-ISO27001-Control-Mapping/`](../10-ISO27001-Control-Mapping/)
+- [`11-ISO27001-Statement-of-Applicability/`](../11-ISO27001-Statement-of-Applicability/)
+- [`07-Audit-Report/`](../07-Audit-Report/)
+- [`13-Management-Review/`](../13-Management-Review/)
